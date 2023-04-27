@@ -4,10 +4,10 @@ class Board
         puts "  1     2     3  "
         puts "     |     |     "
         puts "A    |     |     "
-        puts "-" * 14
+        puts "-" * 17
         puts "     |     |     "
         puts "B    |     |     "
-        puts "-" * 14
+        puts "-" * 17
         puts "     |     |     "
         puts "C    |     |     "
     end

@@ -8,6 +8,6 @@ require_relative 'lib/game'
 player = Player.new.asking_name
 board = Board.new.cases
 game = Game.new.go_player1
-#puts "#{asking_name.player1} à toi de jouer !"
+#puts "#{@player1} à toi de jouer"
 
 #binding.pry

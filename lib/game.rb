@@ -1,8 +1,8 @@
 class Game < Player
     attr_accessor :game1, :player1
 
-    def initialize(player1)
-        super(player1)
+    def initialize
+        @player1 = player1
         @game1 = game1
 
     
